@@ -1,0 +1,17 @@
+RELEASE NOTES: VERTICAL SLICE
+How the Sands of Time Slips Through
+
+3 O'clock Studios
+
+
+
+Placeholder Elements:
+The main character models are still the placeholder Unity Chan models due to a syncing failure that would occur when replacing the models with the final characters. The character meshes in the project are early placeholders as well due to issues with transferring the rigs in with the character models and other topology issues.
+
+
+Bugs or Limitations:
+Some environmental props are missing effective colliders and the camera clips through some of the walls. There were several issues while trying to develop a skeletal rig for application of our motion capture animations to the various character models. Because of this evidence of our OptiTrack data is not visible in the project.
+
+
+Features Difficult to Observe:
+Contextual elements that heavily rely on cutscene conveyance are missing keeping some key storytelling obscure from the audience at present.
